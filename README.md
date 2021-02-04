@@ -58,7 +58,7 @@ _N'hésitez pas à regarder la documentation de cette commande pour voir les nom
 
 - Q4: Chaque commit a un numéro unique, seriez vous retrouver celui du cinquième commit de ce repository ?
 
-> Votre réponse
+> Le numéro du cinquième commit est ``5651629``
 
 - Q5: D'ailleurs comment savoir, quel est le contenu de ce cinquième commit, c'est à dire quelles ont été les modifications apportées au projet au 3ième et 4ième commit ?
 
