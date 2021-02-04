@@ -25,7 +25,7 @@ Nous avons besoin pour celà de "forker" le repository.
 
 Q1: Quelle est la différence entre un fork et un clone ?
 
-> Votre réponse
+> Une fork va être la copy d'un repo d'un utilisateur sur un autre utilisateur. Un clone va être juste une copy d'un repo distant sur un repo local
 
 ![](images/fork.png)
 
