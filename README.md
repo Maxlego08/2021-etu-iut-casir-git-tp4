@@ -86,7 +86,7 @@ Chaque personne de l'équipe va modifier le lien pointé par une icone, faire un
 
 - Q6: Juste avant de commiter, quelle est la commande pour visualiser le contenu de son prochain commit ?
 
-> Votre réponse
+> git status
 
 Avant de passer à la suite, chaque personne doit avoir les liens de tous les autres présents sur son poste en local.
 
