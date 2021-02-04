@@ -62,7 +62,7 @@ _N'hésitez pas à regarder la documentation de cette commande pour voir les nom
 
 - Q5: D'ailleurs comment savoir, quel est le contenu de ce cinquième commit, c'est à dire quelles ont été les modifications apportées au projet au 3ième et 4ième commit ?
 
-> Votre réponse
+> Pour voir le contenu des modifications il faut faire ``git show --pretty= --name-only 5651629``
 
 ### 1.3 Premier commit à faire en groupe, partage et récupération.
 
