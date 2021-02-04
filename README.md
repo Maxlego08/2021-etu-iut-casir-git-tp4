@@ -44,6 +44,7 @@ Chaque personne du groupe doit compléter son document **ecommerce_prenom-nom.md
 Q2: Github propose un clone ou download ( bouton vert ), quelle est la différence fondamentale entre les deux ?
 
 > Le bouton download va télécharger les sources du projet en format ZIP et le bouton clone va copier le lien pour clone dans le presse papier.
+> 
 
 ### 1.2 Découverte du repository crée
 
@@ -51,7 +52,7 @@ Quand vous récupérez un projet, il est toujours intéressant d'analyser l'hist
 
 - Q3: Quelle est la commande git permettant de visualiser l'historique du projet ?
 
-> Votre réponse
+> La commande qui permet de visualiser l'historique du projet est ``git log``
 
 _N'hésitez pas à regarder la documentation de cette commande pour voir les nombreuses options disponibles_
 
