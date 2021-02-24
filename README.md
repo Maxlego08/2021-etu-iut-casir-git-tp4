@@ -186,7 +186,7 @@ Il arrive que nous oublions de commiter un fichier, on peut donc revenir sur un 
 Modifier le commit précédent en n'oubliant pas de rajouter le fichier oublié
 
  **Q14: NB: vous pouvez faire ça uniquement sur des commits non partagés. Pourquoi ?**
-> Votre réponse
+> Car ils sont en local
 
 Ressources :
 
