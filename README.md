@@ -92,7 +92,7 @@ Avant de passer à la suite, chaque personne doit avoir les liens de tous les au
 
 Q7: Pourquoi la première personne peut partager ses changements sans problème et les autres sont obligées de faire une opération supplémentaire ?
 
-> Votre réponse
+> Les autres sont obligés de pull pour pouvoir récupérer les modifications effectués et ainsi éviter de push différent chose. Car cela peut créer des conflits.
 
 ## 3. Ajout de pages
 
