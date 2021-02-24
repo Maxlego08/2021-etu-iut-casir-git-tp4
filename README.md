@@ -167,7 +167,7 @@ Si vous essayez de voir votre site, il ne fonctionne plus ( ou mal pendant un ce
 
 * Q12: Ecrasez les modifications faites sur ce fichier en utilisant git
 
-> Préciser la commande permettant d'effacer les modifications
+> git stash
 
 ## 5. 😄 Oups 😄 Oups 😄
 
