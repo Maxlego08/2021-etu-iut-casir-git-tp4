@@ -179,7 +179,7 @@ Exécuter le script
 
 * Q13: Faire un git status, qu'observez vous ?
 
-> Votre réponse
+> On observes que le fichier index.html a été modifié.
 
 Il arrive que nous oublions de commiter un fichier, on peut donc revenir sur un commit déjà fait
 
