@@ -144,7 +144,7 @@ Avant de passer à la suite, chaque personne doit avoir les commits de toutes le
 
 - Q9: Quelles sont les étapes pour résoudre des conflits sous git ?
 
-> Votre réponse
+> Il faut modifier les fichiers qui sont en conflits
 
 - Q10: Comment vous vous assurez que git n'est plus en état de conflit ?
 
