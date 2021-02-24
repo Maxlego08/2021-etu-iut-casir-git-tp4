@@ -207,7 +207,7 @@ Executer le script `oups-oups-oups.sh` :
 ```
 Q15: Erreur script: 
 * Visualiser votre historique, que s'est t-il passé ?
-> Votre réponse
+> Il y a eu 5 commits (qui ne respecte pas nos conventions)
 
 * Comment revenir en arrière et donc ignorer les 5 derniers commits ?
 > Votre réponse
