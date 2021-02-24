@@ -235,7 +235,7 @@ vous auriez du...
 	
 Q16: Résumé en une phrase l'intérêt des branches :
 
-> Votre réponse
+> Permet de séparer les développements et de continuer d'avancer le code dans les branches principales
 
 Q17: Sans le savoir vous travaillez déjà avec des branches, quel est le nom de la branche par défaut de git ?
 
