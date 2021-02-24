@@ -114,7 +114,7 @@ Faites une page simple, mais contenant au minimum :
 
 * Q8: Quel est le concept en git qui nous permet de procéder ainsi ?
 
-> Votre réponse  
+> Le principe de git stashes 
 
 Avant de passer à la suite, chaque personne doit avoir les pages de tous les autres présentes sur son poste en local.
 
