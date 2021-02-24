@@ -239,7 +239,7 @@ Q16: Résumé en une phrase l'intérêt des branches :
 
 Q17: Sans le savoir vous travaillez déjà avec des branches, quel est le nom de la branche par défaut de git ?
 
-> Votre réponse
+> La branche Master ou main en fonction des git
 
 ## 1. Ajouter un produit dans la liste et formulaire d'inscription à la newsletter.
 
